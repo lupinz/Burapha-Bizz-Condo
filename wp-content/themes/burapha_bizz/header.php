@@ -2,8 +2,6 @@
 /**
  * The Header for our theme.
  *
- * Displays all of the <head> section and everything up till <div id="main">
- *
  * @package BuraphaBizz
  */
 ?><!DOCTYPE html>
@@ -21,6 +19,7 @@
 <!--<![endif]-->
 <head>
 
+</head>
 <body>
 	
 	<div id="wrapper" class="hfeed">    
@@ -34,7 +33,7 @@
 				</div><!-- #branding -->             
 					
 				<div id="access">     
-					Navigation Section
+					Navigator Section
 				</div><!-- #access --> 
 				
 			</div><!-- #masthead -->    
